@@ -10,3 +10,6 @@
 ---
 * Nama : Adrian Ismu Arifianto
 * NRP : 5025211116
+---
+* Nama : Adam Haidar Azizi
+* NRP : 5025211114
