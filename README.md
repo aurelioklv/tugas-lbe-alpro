@@ -7,3 +7,6 @@
 ---
 * Nama : Aurelio Killian Lexi Verrill
 * NRP : 5025211126
+---
+* Nama : Adrian Ismu Arifianto
+* NRP : 5025211116
